@@ -1,13 +1,45 @@
-# See https://www.dartlang.org/guides/libraries/private-files
+# Miscellaneous
+qrcode/*.class
+qrcode/*.log
+qrcode/*.pyc
+qrcode/*.swp
+qrcode/.DS_Store
+qrcode/.atom/
+qrcode/.buildlog/
+qrcode/.history
+qrcode/.svn/
 
-# Files and directories created by pub
-.dart_tool/
-.packages
-.pub/
-build/
-# If you're building an application, you may want to check-in your pubspec.lock
-pubspec.lock
+# IntelliJ related
+qrcode/*.iml
+qrcode/*.ipr
+qrcode/*.iws
+qrcode/.idea/
 
-# Directory created by dartdoc
-# If you don't generate documentation locally you can remove this line.
-doc/api/
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+qrcode/**/doc/api/
+qrcode/.dart_tool/
+qrcode/.flutter-plugins
+qrcode/.flutter-plugins-dependencies
+qrcode/.packages
+qrcode/.pub-cache/
+qrcode/.pub/
+qrcode//build/
+
+# Web related
+qrcode/lib/generated_plugin_registrant.dart
+
+# Symbolication related
+qrcode/app.*.symbols
+
+# Obfuscation related
+qrcode/app.*.map.json
+
+# Exceptions to above rules.
+!qrcode/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+qrcode/.idea/
+qrcode/android/.idea/
