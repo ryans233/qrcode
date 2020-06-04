@@ -1,4 +1,4 @@
-package com.example.qrcode_example
+package com.ryans233.qrcode_example
 
 import android.os.Bundle
 

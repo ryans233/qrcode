@@ -1,4 +1,4 @@
-group 'com.example.qrcode'
+group 'com.ryans233.qrcode'
 version '1.0-SNAPSHOT'
 
 buildscript {

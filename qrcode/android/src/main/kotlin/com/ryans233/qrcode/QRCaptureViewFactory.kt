@@ -1,7 +1,7 @@
-package com.example.qrcode
+package com.ryans233.qrcode
 
 import android.content.Context
-import com.example.qrcode.QRCaptureView
+import com.ryans233.qrcode.QRCaptureView
 import io.flutter.plugin.common.PluginRegistry
 import io.flutter.plugin.common.StandardMessageCodec
 import io.flutter.plugin.platform.PlatformView
