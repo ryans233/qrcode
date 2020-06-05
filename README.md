@@ -4,7 +4,7 @@ A flutter plugin for scanning QR codes. Use AVCaptureSession in iOS and zxing in
 Added some permission related APIs to [SiriDx's qrcode library](https://github.com/SiriDx/qrcode).
 
 ## Usage
-[Example](qrcode/example/lib/main.dart)
+[Example](example/lib/main.dart)
 
 ### Use this package as a library
 
